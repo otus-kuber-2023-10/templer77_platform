@@ -1,2 +1,2 @@
-# templer77_platform
-templer77 Platform repository
+Создан манифест  pod web
+Созда работающий манифест frontend-pod-healthy.yaml 
